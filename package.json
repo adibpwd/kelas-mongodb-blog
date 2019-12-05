@@ -1,0 +1,12 @@
+{
+  "name": "kelas-mongodb-blog",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/muslikhuladib0/kelas-mongodb-blog.git",
+  "author": "muslikhuladib0",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.7.13"
+  }
+}
